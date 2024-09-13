@@ -1,0 +1,10 @@
+speechrecognition
+pyaudio
+pyttsx3
+setuptools
+numpy
+matplotlib
+soundfile
+sounddevice
+uvicorn
+fastapi
